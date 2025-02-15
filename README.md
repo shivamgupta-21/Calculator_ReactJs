@@ -21,8 +21,9 @@ addition, subtraction, multiplication, and division.
 
 
 # Technology Used:
-HTML
+
+**HTML
 CSS
 JavaScript
-ReactJs
+ReactJs**
 
