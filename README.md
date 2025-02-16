@@ -7,7 +7,7 @@ Open **http://localhost:3000** to view it in the browser.
 
 **User Interface:**
 
-● Create a user-friendly interface for the calculator. Design a layout that includes a display for input and results.
+● Created a user-friendly interface for the calculator. Design a layout that includes a display for input and results.
 
 ● Include buttons for digits (0-9), decimal point, and operators (+, -, *, /).
 
